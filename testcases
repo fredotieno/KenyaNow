@@ -8,14 +8,17 @@ So another test case to determine if news feeds can be fetched into the timeline
 3.another test case to order new feed events based on the time they occured.
 Check if they are correctly ordered according to time.
 
-4.another test case to determine if a user can be able to comment on a news item
+4.another test case to determine if a user can be able to comment on a news itemAre the comments really created for a news item.
 
 5. another test case to determine if comments to a news item can be summed up.
+Can I sum up and store the results of the summation.
 
 6.test case to determine if a user can like a test case.
+Are news items "likable". Does it show it is liked.
 
 7. test case to determine if a likes to a test case can be aggregated.
+Sum and store total likes to a given news item.
 
 8. test case to determine if most popular news events can be highlighted on the timeline based on both comments on the news item and likes on the news item
-
+Does the most popular based on these metrics show on top of the timeline list.
 
