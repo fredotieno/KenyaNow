@@ -1,6 +1,6 @@
 In order to show the timeline:
 1. the user should be able to follow a news network.
-So the first test case would determine if a news network can be tested.
+So the first test case would determine if a news network can be followed.
 
 2.the function should be able to fetch news feeds from the news networks followed
 So another test case to determine if news feeds can be fetched into the timeline.
